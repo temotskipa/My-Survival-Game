@@ -60,6 +60,10 @@
 		{
 			"Name": "MassCrowd",
 			"Enabled": true
+		},
+		{
+			"Name": "Volumetrics",
+			"Enabled": true
 		}
 	]
 }
